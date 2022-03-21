@@ -1,3 +1,3 @@
 # JavaScript_Projects
-JvaScript Projects from FreeCodeCamp
+JavaScript Projects from FreeCodeCamp
 
