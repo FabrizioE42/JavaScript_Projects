@@ -1,3 +1,5 @@
+//This function checks if the input is a valid US phone number format including a 1 area code extension
+
 function telephoneCheck(str) {
 
     const patterns = [
